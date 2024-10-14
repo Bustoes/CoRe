@@ -1,0 +1,1 @@
+from core.pages.demo import demo

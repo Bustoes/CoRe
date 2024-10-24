@@ -26,8 +26,6 @@ run/
 results/
 ckpts/
 config/api-config.json
-test*
-!core/*/test*
 
 wandb/
 trlx/

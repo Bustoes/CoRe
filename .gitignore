@@ -21,7 +21,6 @@ __pycache__/
 .DS_Store
 
 # Others
-data/
 logs/
 run/
 results/
